@@ -18,3 +18,5 @@ Logs
 releases
 cache
 build
+OpenWebKitSharp.sdf
+*.opensdf
