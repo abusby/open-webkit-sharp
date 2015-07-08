@@ -6,6 +6,7 @@ obj
 *.tmp
 *.zip
 *.cache
+*.ipch
 Thumbs.db
 TestResults
 Debug
